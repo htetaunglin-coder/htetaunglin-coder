@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Typescript<br>🎯 Goals: To get priceless experience by working on innovative projects.<br>🎲 Fun fact: I love working out</p>
+<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning NextJS<br>🎯 Goals: To get priceless experience by working on innovative projects.<br>🎲 Fun fact: I love working out</p>
 
 ###
 
