@@ -9,7 +9,7 @@
 ## 💫 About Me:
 <p align="left">✨ Creating bugs since 2020<br>🎯 Goals: To get priceless experience by working on innovative projects.</p>
 
----
+## ❝ Quote to live by
 <div align="center">
 <img src="https://github.com/HTLA380/HTLA380/assets/113810462/83793ffa-5d47-4867-ba9b-20d71f0d1e45" alt="quote" />
 </div>
