@@ -7,7 +7,7 @@
 ###
 
 ## 💫 About Me:
-<p align="left">✨ Creating bugs since 2020<br>🎯 Goals: To get priceless experience by working on innovative projects.</p>
+<p align="left">✨ Creating bugs since 2021<br>🎯 Goals: To get priceless experience by working on innovative projects.</p>
 
 ## ❝ Quote to live by
 <div align="center">
