@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><svg xmlns="http://www.w3.org/2000/svg" font-family="Andale Mono,AndaleMono,Consolas,monospace" width="975px" height="550px" font-size="14px">
+<?xml version="1.0" encoding="utf-8"?><svg xmlns="http://www.w3.org/2000/svg" font-family="Andale Mono,AndaleMono,Consolas,monospace" width="975px" height="700px" font-size="14px">
 <style>
 .keyColor {fill: #953800;}
 .valueColor {fill: #0a3069;}
@@ -8,7 +8,7 @@
 text, tspan {white-space: pre;}
 </style>
 
-<rect width="970px" height="530px" fill="#f6f8fa" rx="15"/>
+<rect width="970px" height="680px" fill="#f6f8fa" rx="15"/>
 
 
 <text x="15" y="30" fill="#24292f" font-size="13.25px" class="ascii">
@@ -59,8 +59,24 @@ text, tspan {white-space: pre;}
 <tspan x="440" y="410" class="keyColor">Email</tspan>: <tspan class="valueColor">htetaunglin.coder@gmail.com</tspan>
 <tspan x="440" y="430" class="keyColor">LinkedIn</tspan>: <tspan class="valueColor">htetaunglin-coder</tspan>
 <tspan x="440" y="450" class="keyColor">Facebook</tspan>: <tspan class="valueColor">Htet Aung Lin</tspan>
+
+
+<tspan x="30" y="550" class="keyColor">Most Used Technologies</tspan>:
+<tspan x="30" y="570">——————</tspan>
+
+<tspan x="30" y="590" class="keyColor">Library:</tspan> <tspan class="valueColor">React.js</tspan>
+<tspan x="30" y="610" class="keyColor">Framework:</tspan> <tspan class="valueColor">Next.js</tspan>
+<tspan x="30" y="630" class="keyColor">Others:</tspan> <tspan class="valueColor">TypeScript, Tailwind CSS</tspan>
+
+<tspan x="440" y="490" class="keyColor">Streaks</tspan>:
 </text>
 
+<g>
+  <!-- Second image (Streak graph) -->
+  <image x="440" y="490" width="360" height="190" href="https://github-readme-streak-stats.herokuapp.com/?user=HTLA380&amp;theme=onedark-duo&amp;hide_border=false" />
+  <!-- Second image (Streak graph) -->
+  <image x="820" y="40" href="https://komarev.com/ghpvc/?username=HTLA380&amp;color=161b22&amp;base=890" />
+</g>
 </svg>
 
                                                            
