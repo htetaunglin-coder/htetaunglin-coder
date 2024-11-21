@@ -11,7 +11,7 @@ text, tspan {white-space: pre;}
 <rect width="970px" height="620px" fill="#161b22" rx="15"/>
 
 
-<text x="15" y="45" fill="#c9d1d9" font-size="13.25px" class="ascii">
+<text x="15" y="45" fill="#c9d1d9" font-size="14px" class="ascii">
 <tspan x="15" y="45">:::::::::::::::::::::::::::::::::::::::::::::::::::</tspan>
 <tspan x="15" y="65">:::::::::::::::::::::::::::::::::::::::::::::::::::</tspan>
 <tspan x="15" y="80">:::::::::::::::::::::::::::::::::::::::::::::::::::</tspan>
@@ -44,40 +44,40 @@ text, tspan {white-space: pre;}
 </text>
 
 
-<text x="440" y="30" fill="#c9d1d9">
-<tspan x="440" y="50">Htet Aung Lin</tspan>
-<tspan x="440" y="70">——————</tspan>
-<tspan x="440" y="90" class="keyColor">OS</tspan>: <tspan class="valueColor">Arch Linux</tspan>
-<tspan x="440" y="110" class="keyColor">Uptime</tspan>: <tspan class="valueColor">19 years</tspan>
+<text x="460" y="30" fill="#c9d1d9">
+<tspan x="460" y="50">Htet Aung Lin</tspan>
+<tspan x="460" y="70">——————</tspan>
+<tspan x="460" y="90" class="keyColor">OS</tspan>: <tspan class="valueColor">Arch Linux</tspan>
+<tspan x="460" y="110" class="keyColor">Uptime</tspan>: <tspan class="valueColor">19 years</tspan>
 
 <tspan x="480" y="130" class="keyColor">Role</tspan>: <tspan class="valueColor">Frontend Developer &amp; Maintainer</tspan><tspan class="commentColor"> #MijnUI</tspan>
 
-<tspan x="440" y="150" class="keyColor">Kernel</tspan>: <tspan class="valueColor">Frontend Development &amp; UI Design</tspan><tspan class="commentColor"> #React #Next</tspan>
+<tspan x="460" y="150" class="keyColor">Kernel</tspan>: <tspan class="valueColor">Frontend Development &amp; UI Design</tspan><tspan class="commentColor"> #React #Next</tspan>
 
-<tspan x="440" y="190" class="keyColor">IDE</tspan>: <tspan class="valueColor">VSCode 1.95.0</tspan>
+<tspan x="460" y="190" class="keyColor">IDE</tspan>: <tspan class="valueColor">VSCode 1.95.0</tspan>
 
-<tspan x="440" y="210" class="keyColor">Languages</tspan>.<tspan class="keyColor">Programming</tspan>: <tspan class="valueColor">JavaScript, Python, TypeScript</tspan>
+<tspan x="460" y="210" class="keyColor">Languages</tspan>.<tspan class="keyColor">Programming</tspan>: <tspan class="valueColor">JavaScript, Python, TypeScript</tspan>
 
-<tspan x="440" y="230" class="keyColor">Languages</tspan>.<tspan class="keyColor">Framework</tspan>: <tspan class="valueColor">Next.js, React, TailwindCSS</tspan>
+<tspan x="460" y="230" class="keyColor">Languages</tspan>.<tspan class="keyColor">Framework</tspan>: <tspan class="valueColor">Next.js, React, TailwindCSS</tspan>
 
-<tspan x="440" y="270" class="keyColor">Languages</tspan>.<tspan class="keyColor">Tools</tspan>: <tspan class="valueColor">HTML, CSS, Sass/SCSS, Git, GitHub</tspan>
+<tspan x="460" y="270" class="keyColor">Languages</tspan>.<tspan class="keyColor">Tools</tspan>: <tspan class="valueColor">HTML, CSS, Sass/SCSS, Git, GitHub</tspan>
 
-<tspan x="440" y="290" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">Tech</tspan>: <tspan class="valueColor">Exploring new tech stacks, solving problems</tspan>
+<tspan x="460" y="290" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">Tech</tspan>: <tspan class="valueColor">Exploring new tech stacks, solving problems</tspan>
 
-<tspan x="440" y="330" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">Lifestyle</tspan>: <tspan class="valueColor">Reading, Working Out</tspan>
+<tspan x="460" y="330" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">Lifestyle</tspan>: <tspan class="valueColor">Reading, Working Out</tspan>
 
-<tspan x="440" y="370" class="keyColor">Contact</tspan>:
-<tspan x="440" y="390">——————</tspan>
-<tspan x="440" y="410" class="keyColor">Email</tspan>: <tspan class="valueColor">htetaunglin.coder@gmail.com</tspan>
-<tspan x="440" y="430" class="keyColor">LinkedIn</tspan>: <tspan class="valueColor">htetaunglin-coder</tspan>
-<tspan x="440" y="450" class="keyColor">Facebook</tspan>: <tspan class="valueColor">Htet Aung Lin</tspan>
+<tspan x="460" y="370" class="keyColor">Contact</tspan>:
+<tspan x="460" y="390">——————</tspan>
+<tspan x="460" y="410" class="keyColor">Email</tspan>: <tspan class="valueColor">htetaunglin.coder@gmail.com</tspan>
+<tspan x="460" y="430" class="keyColor">LinkedIn</tspan>: <tspan class="valueColor">htetaunglin-coder</tspan>
+<tspan x="460" y="450" class="keyColor">Facebook</tspan>: <tspan class="valueColor">Htet Aung Lin</tspan>
 
-<tspan x="440" y="490" class="keyColor">Most Used Technologies</tspan>:
-<tspan x="440" y="510">——————</tspan>
+<tspan x="460" y="490" class="keyColor">Most Used Technologies</tspan>:
+<tspan x="460" y="510">——————</tspan>
 
-<tspan x="440" y="530" class="keyColor">Library:</tspan> <tspan class="valueColor">React.js</tspan>
-<tspan x="440" y="550" class="keyColor">Framework:</tspan> <tspan class="valueColor">Next.js</tspan>
-<tspan x="440" y="570" class="keyColor">Others:</tspan> <tspan class="valueColor">TypeScript, Tailwind CSS</tspan>
+<tspan x="460" y="530" class="keyColor">Library:</tspan> <tspan class="valueColor">React.js</tspan>
+<tspan x="460" y="550" class="keyColor">Framework:</tspan> <tspan class="valueColor">Next.js</tspan>
+<tspan x="460" y="570" class="keyColor">Others:</tspan> <tspan class="valueColor">TypeScript, Tailwind CSS</tspan>
 
 </text>
 
