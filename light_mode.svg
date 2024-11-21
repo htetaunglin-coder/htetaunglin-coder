@@ -61,14 +61,20 @@ text, tspan {white-space: pre;}
 <tspan x="440" y="450" class="keyColor">Facebook</tspan>: <tspan class="valueColor">Htet Aung Lin</tspan>
 
 
-<tspan x="30" y="550" class="keyColor">Most Used Technologies</tspan>:
+<tspan x="440" y="490" class="keyColor">Most Used Technologies</tspan>:
+<tspan x="440" y="510">——————</tspan>
+
+<tspan x="440" y="530" class="keyColor">Library:</tspan> <tspan class="valueColor">React.js</tspan>
+<tspan x="440" y="550" class="keyColor">Framework:</tspan> <tspan class="valueColor">Next.js</tspan>
+<tspan x="440" y="570" class="keyColor">Others:</tspan> <tspan class="valueColor">TypeScript, Tailwind CSS</tspan>
+
+<tspan x="30" y="550" class="keyColor">GitHub Stats</tspan>:
 <tspan x="30" y="570">——————</tspan>
+<tspan x="30" y="590" class="keyColor">Repos</tspan>: <tspan class="valueColor">95</tspan>
 
-<tspan x="30" y="590" class="keyColor">Library:</tspan> <tspan class="valueColor">React.js</tspan>
-<tspan x="30" y="610" class="keyColor">Framework:</tspan> <tspan class="valueColor">Next.js</tspan>
-<tspan x="30" y="630" class="keyColor">Others:</tspan> <tspan class="valueColor">TypeScript, Tailwind CSS</tspan>
+<tspan x="30" y="610" class="keyColor">Contributed</tspan>: <tspan class="valueColor">133</tspan>  | <tspan class="keyColor">Commmits</tspan>: <tspan class="valueColor">2,078  </tspan>| <tspan class="keyColor">Stars</tspan>: <tspan class="valueColor">282</tspan>
 
-<tspan x="440" y="490" class="keyColor">Streaks</tspan>:
+<tspan x="30" y="630" class="keyColor">Followers</tspan>: <tspan class="valueColor">145 </tspan>| <tspan class="keyColor">Lines of Code</tspan>: <tspan class="valueColor">441,817</tspan> (<tspan class="addColor">515,733++</tspan>, <tspan class="delColor">73,916--</tspan>)
 </text>
 
 </svg>
