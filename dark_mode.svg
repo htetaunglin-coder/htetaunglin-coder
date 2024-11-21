@@ -79,12 +79,5 @@ text, tspan {white-space: pre;}
 
 <tspan x="440" y="490" class="keyColor">Streaks</tspan>:
 </text>
-
-<g>
-  <!-- Second image (Streak graph) -->
-  <image x="440" y="490" width="360" height="190" href="https://github-readme-streak-stats.herokuapp.com/?user=HTLA380&amp;theme=onedark-duo&amp;hide_border=false" />
-  <!-- Second image (Streak graph) -->
-  <image x="820" y="40" href="https://komarev.com/ghpvc/?username=HTLA380&amp;color=161b22&amp;base=890" />
-</g>
 </svg>                                        
    
