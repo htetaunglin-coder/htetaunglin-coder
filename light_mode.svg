@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><svg xmlns="http://www.w3.org/2000/svg" font-family="Andale Mono,AndaleMono,Consolas,monospace" width="975px" height="700px" font-size="14px">
+<?xml version="1.0" encoding="utf-8"?><svg xmlns="http://www.w3.org/2000/svg" font-family="Andale Mono,AndaleMono,Consolas,monospace" width="975px" height="640px" font-size="14px">
 <style>
 .keyColor {fill: #953800;}
 .valueColor {fill: #0a3069;}
@@ -8,36 +8,39 @@
 text, tspan {white-space: pre;}
 </style>
 
-<rect width="970px" height="680px" fill="#f6f8fa" rx="15"/>
+<rect width="970px" height="620px" fill="#f6f8fa" rx="15"/>
 
 
-<text x="15" y="30" fill="#24292f" font-size="13.25px" class="ascii">
-<tspan x="15" y="30">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
+<text x="15" y="45" fill="#24292f" font-size="13.25px" class="ascii">
 <tspan x="15" y="45">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
-<tspan x="15" y="55">@@@@@@@@@@@@@@@@@@@%#::   -:++@@@@@@@@@@@@@@@@@@@@@</tspan>
-<tspan x="15" y="70">@@@@@@@@@@@@@@@@@==*-+-:::==: -*@@@@@@@@@@@@@@@@@@@</tspan>
-<tspan x="15" y="80">@@@@@@@@@@@@@@@@#@%%@%@%@=-#-=*%#@@@@@@@@@@@@@@@@@@</tspan>
-<tspan x="15" y="100">@@@@@@@@@@@@@@@@@@@#=##=*@%#%@%%#@@@@@@@@@@@@@@@@@@</tspan>
-<tspan x="15" y="120">@@@@@@@@@@@@@@@@@@@#+#=@@:%@%#**@@@@@@@@@@@@@@@@@@@</tspan>
-<tspan x="15" y="140">@@@@@@@@@@@@@@@%#@@@@@@@@@@%%@@@@@@@@@@@@@@@@@@@@@@</tspan>
-<tspan x="15" y="160">@@@@@@@@@@@@@@@@@+*%@@@@@@@@@@%@@@@@@@@@@@@@@@@@@@@</tspan>
-<tspan x="15" y="180">@@@@@@@@@@@@@@@@%+*=@@@*==::::+@@@@@@@@@@@@@@@@@@@@</tspan>
-<tspan x="15" y="200">@@@@@@@@@@@@@@@@@%%*@%---::::::*@@@@@@@@@@@@@@@@@@@</tspan>
-<tspan x="15" y="220">@@@@@@@@@@@@@@@@%@@@@-:::::::::=@@@@@@@@@@@@@@@@@@@</tspan>
-<tspan x="15" y="240">@@@@@@@@@@@@@@@@@@%*-:::-:::::::+@@@@@@@@@@@@@@@@@@</tspan>
-<tspan x="15" y="260">@@@@@@@@@@@@@@@-...::::::::-:::::..*@@@@@@@@@@@@@@@</tspan>
-<tspan x="15" y="280">@@@@@@@@@@@@=:::::::-::--=--::::::::::+@@@@@@@@@@@@</tspan>
-<tspan x="15" y="300">@@@@@@@@@@:..::-===+=---==-=::::::-=-:::=@@@@@@@@@@</tspan>
-<tspan x="15" y="320">@@@@@@*-::----::::---====*+---=--=+=====--+@@@@@@@@</tspan>
-<tspan x="15" y="340">@@@@%:=-===**=-:-------==*=-::::-===---=*==:-*@@@@@</tspan>
-<tspan x="15" y="360">@@@@==---===++===--=+====+*==-=+***=-======--:-@@@@</tspan>
-<tspan x="15" y="380">@@@*=++***%*===-====*%@%#@%##%@@%+===+++*++++===@@@</tspan>
-<tspan x="15" y="400">@@@%%@@%%@@*****+**#%@@%#***==+#*+++******%@@**#*@@</tspan>
-<tspan x="15" y="420">@@@@@@%%@@@@@@%%%@@@@*===*#*+==+*%@@%%%@@@@@=+*%%@@</tspan>
-<tspan x="15" y="440">@@@@%+++%@@@@@@@@@@*==*##@@%%***+*%@@@@@@@@*==+*#@@</tspan>
-<tspan x="15" y="460">@@@+=++*%@@@@@@@%*===+**#@@*+*%#=+*%@@@@@@@====++@@</tspan>
-<tspan x="15" y="480">@@#*****%@@@@@@@#****#++#@%*++=***#%@@@@@@%====**%@</tspan>
-<tspan x="15" y="500">@@%%#***%@@@@@@#%%%%#*+*#%%#****#%%@@@@@@@#+===#@@@</tspan>
+<tspan x="15" y="55">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
+<tspan x="15" y="70">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
+<tspan x="15" y="80">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
+<tspan x="15" y="100">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
+<tspan x="15" y="120">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
+<tspan x="15" y="140">@@@@@@@@@@@@@@@@@@@%#::   -:++@@@@@@@@@@@@@@@@@@@@@</tspan>
+<tspan x="15" y="160">@@@@@@@@@@@@@@@@@==*-+-:::==: -*@@@@@@@@@@@@@@@@@@@</tspan>
+<tspan x="15" y="180">@@@@@@@@@@@@@@@@#@%%@%@%@=-#-=*%#@@@@@@@@@@@@@@@@@@</tspan>
+<tspan x="15" y="200">@@@@@@@@@@@@@@@@@@@#=##=*@%#%@%%#@@@@@@@@@@@@@@@@@@</tspan>
+<tspan x="15" y="220">@@@@@@@@@@@@@@@@@@@#+#=@@:%@%#**@@@@@@@@@@@@@@@@@@@</tspan>
+<tspan x="15" y="240">@@@@@@@@@@@@@@@%#@@@@@@@@@@%%@@@@@@@@@@@@@@@@@@@@@@</tspan>
+<tspan x="15" y="260">@@@@@@@@@@@@@@@@@+*%@@@@@@@@@@%@@@@@@@@@@@@@@@@@@@@</tspan>
+<tspan x="15" y="280">@@@@@@@@@@@@@@@@%+*=@@@*==::::+@@@@@@@@@@@@@@@@@@@@</tspan>
+<tspan x="15" y="300">@@@@@@@@@@@@@@@@@%%*@%---::::::*@@@@@@@@@@@@@@@@@@@</tspan>
+<tspan x="15" y="320">@@@@@@@@@@@@@@@@%@@@@-:::::::::=@@@@@@@@@@@@@@@@@@@</tspan>
+<tspan x="15" y="340">@@@@@@@@@@@@@@@@@@%*-:::-:::::::+@@@@@@@@@@@@@@@@@@</tspan>
+<tspan x="15" y="360">@@@@@@@@@@@@@@@-...::::::::-:::::..*@@@@@@@@@@@@@@@</tspan>
+<tspan x="15" y="380">@@@@@@@@@@@@=:::::::-::--=--::::::::::+@@@@@@@@@@@@</tspan>
+<tspan x="15" y="400">@@@@@@@@@@:..::-===+=---==-=::::::-=-:::=@@@@@@@@@@</tspan>
+<tspan x="15" y="420">@@@@@@*-::----::::---====*+---=--=+=====--+@@@@@@@@</tspan>
+<tspan x="15" y="440">@@@@%:=-===**=-:-------==*=-::::-===---=*==:-*@@@@@</tspan>
+<tspan x="15" y="460">@@@@==---===++===--=+====+*==-=+***=-======--:-@@@@</tspan>
+<tspan x="15" y="480">@@@*=++***%*===-====*%@%#@%##%@@%+===+++*++++===@@@</tspan>
+<tspan x="15" y="500">@@@%%@@%%@@*****+**#%@@%#***==+#*+++******%@@**#*@@</tspan>
+<tspan x="15" y="520">@@@@@@%%@@@@@@%%%@@@@*===*#*+==+*%@@%%%@@@@@=+*%%@@</tspan>
+<tspan x="15" y="540">@@@@%+++%@@@@@@@@@@*==*##@@%%***+*%@@@@@@@@*==+*#@@</tspan>
+<tspan x="15" y="560">@@@+=++*%@@@@@@@%*===+**#@@*+*%#=+*%@@@@@@@====++@@</tspan>
+<tspan x="15" y="580">@@#*****%@@@@@@@#****#++#@%*++=***#%@@@@@@%====**%@</tspan>
 </text>
 
 
@@ -45,7 +48,7 @@ text, tspan {white-space: pre;}
 <tspan x="440" y="50">Htet Aung Lin</tspan>
 <tspan x="440" y="70">——————</tspan>
 <tspan x="440" y="90" class="keyColor">OS</tspan>: <tspan class="valueColor">Arch Linux</tspan>
-<tspan x="440" y="110" class="keyColor">Uptime</tspan>: <tspan class="valueColor">19 years, 11 months, 21 days</tspan>
+<tspan x="440" y="110" class="keyColor">Uptime</tspan>: <tspan class="valueColor">19 years</tspan>
 <tspan x="480" y="130" class="keyColor">Role</tspan>: <tspan class="valueColor">Frontend Developer &amp; Maintainer</tspan><tspan class="commentColor"> #MijnUI</tspan>
 <tspan x="440" y="150" class="keyColor">Kernel</tspan>: <tspan class="valueColor">Frontend Development &amp; UI Design</tspan><tspan class="commentColor"> #React #Next</tspan>
 <tspan x="440" y="190" class="keyColor">IDE</tspan>: <tspan class="valueColor">VSCode 1.95.0</tspan>
@@ -67,16 +70,7 @@ text, tspan {white-space: pre;}
 <tspan x="440" y="530" class="keyColor">Library:</tspan> <tspan class="valueColor">React.js</tspan>
 <tspan x="440" y="550" class="keyColor">Framework:</tspan> <tspan class="valueColor">Next.js</tspan>
 <tspan x="440" y="570" class="keyColor">Others:</tspan> <tspan class="valueColor">TypeScript, Tailwind CSS</tspan>
-
-<tspan x="30" y="550" class="keyColor">GitHub Stats</tspan>:
-<tspan x="30" y="570">——————</tspan>
-<tspan x="30" y="590" class="keyColor">Repos</tspan>: <tspan class="valueColor">95</tspan>
-
-<tspan x="30" y="610" class="keyColor">Contributed</tspan>: <tspan class="valueColor">133</tspan>  | <tspan class="keyColor">Commmits</tspan>: <tspan class="valueColor">2,078  </tspan>| <tspan class="keyColor">Stars</tspan>: <tspan class="valueColor">282</tspan>
-
-<tspan x="30" y="630" class="keyColor">Followers</tspan>: <tspan class="valueColor">145 </tspan>| <tspan class="keyColor">Lines of Code</tspan>: <tspan class="valueColor">441,817</tspan> (<tspan class="addColor">515,733++</tspan>, <tspan class="delColor">73,916--</tspan>)
 </text>
-
 </svg>
 
                                                            

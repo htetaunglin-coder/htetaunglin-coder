@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><svg xmlns="http://www.w3.org/2000/svg" font-family="Andale Mono,AndaleMono,Consolas,monospace" width="975px" height="700px" font-size="14px">
+<?xml version="1.0" encoding="utf-8"?><svg xmlns="http://www.w3.org/2000/svg" font-family="Andale Mono,AndaleMono,Consolas,monospace" width="975px" height="640px" font-size="14px">
 <style>
 .keyColor {fill: #ffa657;}
 .valueColor {fill: #a5d6ff;}
@@ -8,37 +8,39 @@
 text, tspan {white-space: pre;}
 </style>
 
-<rect width="970px" height="680px" fill="#161b22" rx="15"/>
+<rect width="970px" height="620px" fill="#161b22" rx="15"/>
 
 
-<text x="15" y="30" fill="#c9d1d9" font-size="13.25px" class="ascii">
-<tspan x="15" y="30">:::::::::::::::::::::::::::::::::::::::::::::::::::</tspan>
+<text x="15" y="45" fill="#c9d1d9" font-size="13.25px" class="ascii">
 <tspan x="15" y="45">:::::::::::::::::::::::::::::::::::::::::::::::::::</tspan>
-<tspan x="15" y="55">:::::::::::::::::::::::::::::::::::::::::::::::::::</tspan>
-<tspan x="15" y="65">:::::::::::::::::::==##%%%##++:::::::::::::::::::::</tspan>
-<tspan x="15" y="80">:::::::::::::::::**+*+*###**#%#+:::::::::::::::::::</tspan>
-<tspan x="15" y="90">::::::::::::::::=:==-=:=-*#=#*+==::::::::::::::::::</tspan>
-<tspan x="15" y="110">::::::::::::::::::-=*==*+--==:===::::::::::::::::::</tspan>
-<tspan x="15" y="130">::::::::::::::::--:=+=*--#=:-=++:::::::::::::::::::</tspan>
-<tspan x="15" y="150">:::::::::::::::==::::--:::-==---:-:::::::::::::::::</tspan>
-<tspan x="15" y="170">:::::::::::::::::++=::-:::::::=::::::::::::::::::::</tspan>
-<tspan x="15" y="190">::::::::::::::::-++*-::+**####+::::::::::::::::::::</tspan>
-<tspan x="15" y="210">:::::::::::::::::-=+-=#**######+:::::::::::::::::::</tspan>
-<tspan x="15" y="230">::::::::::::::::=:::-*#########*-::::::::::::::::::</tspan>
-<tspan x="15" y="250">::::::::::::::::::=+*###########+::::::::::::::::::</tspan>
-<tspan x="15" y="270">::::::::::::::-#%%#########*#######+:::::::::::::::</tspan>
-<tspan x="15" y="290">:::::::::::-*############***##########+::::::::::::</tspan>
-<tspan x="15" y="310">:::::::::-##%###***+*##*****######**####*::::::::::</tspan>
-<tspan x="15" y="330">::::::+###**########*****++*##****+*******+-:::::::</tspan>
-<tspan x="15" y="350">::::=#*****++*###********+**####*****#**+**##+:::::</tspan>
-<tspan x="15" y="370">:::-********++******+****++**#*++++*********##*-:::</tspan>
-<tspan x="15" y="390">:::+*+++++=+********+=-==-====--=+***++++++++***-::</tspan>
-<tspan x="15" y="410">::-==--==--++++++++==---=+++**+=++++++++++=-:++=+::</tspan>
-<tspan x="15" y="430">::::::==:::---===-::-+***+=++***+=--===--:::**+==::</tspan>
-<tspan x="15" y="450">::::=+++=:::::---:-+**+==---=+++++=--::::::+**++=::</tspan>
-<tspan x="15" y="470">::-+*+++=-::::--=+***+++=--+++==*++=-:::::-****++-:</tspan>
-<tspan x="15" y="490">::=+++++=-::::::=++++=++=-=++**+++==-:::::=****++=:</tspan>
-<tspan x="15" y="510">::===+++=:::::-======+++====++++===--:::::=****=-::</tspan>
+<tspan x="15" y="65">:::::::::::::::::::::::::::::::::::::::::::::::::::</tspan>
+<tspan x="15" y="80">:::::::::::::::::::::::::::::::::::::::::::::::::::</tspan>
+<tspan x="15" y="90">:::::::::::::::::::::::::::::::::::::::::::::::::::</tspan>
+<tspan x="15" y="110">:::::::::::::::::::::::::::::::::::::::::::::::::::</tspan>
+<tspan x="15" y="130">:::::::::::::::::::==##%%%##++:::::::::::::::::::::</tspan>
+<tspan x="15" y="150">:::::::::::::::::**+*+*###**#%#+:::::::::::::::::::</tspan>
+<tspan x="15" y="170">::::::::::::::::=:==-=:=-*#=#*+==::::::::::::::::::</tspan>
+<tspan x="15" y="190">::::::::::::::::::-=*==*+--==:===::::::::::::::::::</tspan>
+<tspan x="15" y="210">::::::::::::::::--:=+=*--#=:-=++:::::::::::::::::::</tspan>
+<tspan x="15" y="230">:::::::::::::::==::::--:::-==---:-:::::::::::::::::</tspan>
+<tspan x="15" y="250">:::::::::::::::::++=::-:::::::=::::::::::::::::::::</tspan>
+<tspan x="15" y="270">::::::::::::::::-++*-::+**####+::::::::::::::::::::</tspan>
+<tspan x="15" y="290">:::::::::::::::::-=+-=#**######+:::::::::::::::::::</tspan>
+<tspan x="15" y="310">::::::::::::::::=:::-*#########*-::::::::::::::::::</tspan>
+<tspan x="15" y="330">::::::::::::::::::=+*###########+::::::::::::::::::</tspan>
+<tspan x="15" y="350">::::::::::::::-#%%#########*#######+:::::::::::::::</tspan>
+<tspan x="15" y="370">:::::::::::-*############***##########+::::::::::::</tspan>
+<tspan x="15" y="390">:::::::::-##%###***+*##*****######**####*::::::::::</tspan>
+<tspan x="15" y="410">::::::+###**########*****++*##****+*******+-:::::::</tspan>
+<tspan x="15" y="430">::::=#*****++*###********+**####*****#**+**##+:::::</tspan>
+<tspan x="15" y="450">:::-********++******+****++**#*++++*********##*-:::</tspan>
+<tspan x="15" y="470">:::+*+++++=+********+=-==-====--=+***++++++++***-::</tspan>
+<tspan x="15" y="490">::-==--==--++++++++==---=+++**+=++++++++++=-:++=+::</tspan>
+<tspan x="15" y="510">::::::==:::---===-::-+***+=++***+=--===--:::**+==::</tspan>
+<tspan x="15" y="530">::::=+++=:::::---:-+**+==---=+++++=--::::::+**++=::</tspan>
+<tspan x="15" y="550">::-+*+++=-::::--=+***+++=--+++==*++=-:::::-****++-:</tspan>
+<tspan x="15" y="570">::=+++++=-::::::=++++=++=-=++**+++==-:::::=****++=:</tspan>
+<tspan x="15" y="590">::===+++=:::::-======+++====++++===--:::::=****=-::</tspan>
 </text>
 
 
@@ -46,7 +48,7 @@ text, tspan {white-space: pre;}
 <tspan x="440" y="50">Htet Aung Lin</tspan>
 <tspan x="440" y="70">——————</tspan>
 <tspan x="440" y="90" class="keyColor">OS</tspan>: <tspan class="valueColor">Arch Linux</tspan>
-<tspan x="440" y="110" class="keyColor">Uptime</tspan>: <tspan class="valueColor">19 years, 11 months, 21 days</tspan>
+<tspan x="440" y="110" class="keyColor">Uptime</tspan>: <tspan class="valueColor">19 years</tspan>
 
 <tspan x="480" y="130" class="keyColor">Role</tspan>: <tspan class="valueColor">Frontend Developer &amp; Maintainer</tspan><tspan class="commentColor"> #MijnUI</tspan>
 
@@ -77,13 +79,10 @@ text, tspan {white-space: pre;}
 <tspan x="440" y="550" class="keyColor">Framework:</tspan> <tspan class="valueColor">Next.js</tspan>
 <tspan x="440" y="570" class="keyColor">Others:</tspan> <tspan class="valueColor">TypeScript, Tailwind CSS</tspan>
 
-<tspan x="30" y="550" class="keyColor">GitHub Stats</tspan>:
-<tspan x="30" y="570">——————</tspan>
-<tspan x="30" y="590" class="keyColor">Repos</tspan>: <tspan class="valueColor">95</tspan>
-
-<tspan x="30" y="610" class="keyColor">Contributed</tspan>: <tspan class="valueColor">133</tspan>  | <tspan class="keyColor">Commmits</tspan>: <tspan class="valueColor">2,078  </tspan>| <tspan class="keyColor">Stars</tspan>: <tspan class="valueColor">282</tspan>
-
-<tspan x="30" y="630" class="keyColor">Followers</tspan>: <tspan class="valueColor">145 </tspan>| <tspan class="keyColor">Lines of Code</tspan>: <tspan class="valueColor">441,817</tspan> (<tspan class="addColor">515,733++</tspan>, <tspan class="delColor">73,916--</tspan>)
 </text>
+
+
+
+
 </svg>                                        
    
