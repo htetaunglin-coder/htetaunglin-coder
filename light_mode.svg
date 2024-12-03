@@ -48,7 +48,7 @@ text, tspan {white-space: pre;}
 <tspan x="460" y="50">Htet Aung Lin</tspan>
 <tspan x="460" y="70">——————</tspan>
 <tspan x="460" y="90" class="keyColor">OS</tspan>: <tspan class="valueColor">Arch Linux</tspan>
-<tspan x="460" y="110" class="keyColor">Uptime</tspan>: <tspan class="valueColor">19 years</tspan>
+<tspan x="460" y="110" class="keyColor">Uptime</tspan>: <tspan class="valueColor">20 years</tspan>
 
 <tspan x="480" y="130" class="keyColor">Role</tspan>: <tspan class="valueColor">Frontend Developer &amp; Maintainer</tspan><tspan class="commentColor"> #MijnUI</tspan>
 
