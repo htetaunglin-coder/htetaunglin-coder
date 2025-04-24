@@ -5,7 +5,6 @@
   </picture>
 </a>
 
----
 
 ### Tech Stack:
 
